@@ -206,6 +206,7 @@ class ShopifySDK
         'Report',
         'ScriptTag',
         'ShippingZone',
+        'ShippingZoneService',
         'Shop',
         'SmartCollection',
         'ShopifyPayment',
